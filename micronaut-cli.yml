@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: io.asyncevent
+testFramework: spock
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [app-name, data, data-r2dbc, gradle, h2, http-client, kotlin, kotlin-application, logback, netty-server, r2dbc, readme, security-annotations, security-jwt, shade, spock, yaml]
